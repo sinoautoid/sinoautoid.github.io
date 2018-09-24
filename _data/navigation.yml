@@ -15,8 +15,8 @@ header:
 docs-en:
   - title:      Start
     children:
-      - title:  Test
-        url:    /
+      # - title:  Test
+      #   url:    /
       - title:  Quick Start
         url:    /docs/en/quick-start
       - title:  Structure
