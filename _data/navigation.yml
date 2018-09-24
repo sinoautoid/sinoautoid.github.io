@@ -61,7 +61,9 @@ docs-en:
         url: /quan-ly-cau-hinh-ftp
       - title: Quản lý chức năng
         url: /quan-ly-chuc-nang
-        
-
+  - title:      Quản lý công nhân
+    children:
+      - title: Thêm từng công nhân
+        url: /them-tung-cong-nhan
 sidebar:
   nav: docs-en
