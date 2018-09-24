@@ -25,42 +25,42 @@ docs-en:
     children:
       - title: Giới Thiệu
         url: /gioi-thieu
-      - title: Quản lý truy vết
-        url: /quan-ly-truy-vet
-      - title: Quản lý chứng thực
-        url: /quan-ly-chung-thuc
-      - title: Quản lý thiết bị
-        url: /quan-ly-thiet-bi
-      - title: Quản lý tài liệu
-        url: /quan-ly-tai-lieu
-      - title: Quản lý cấu hình FTP
-        url: /quan-ly-cau-hinh-ftp
-      - title: Quản lý lịch
-        url: /quan-ly-lich
-      - title: Quản lý biểu mẫu Email
-        url: /quan-ly-bieu-mau-email
-      - title: Quản lý chức năng
-        url: /quan-ly-chuc-nang
-      - title: Định nghĩa tham số hệ thống
-        url: /dinh-nghia-tham-so-he-thong
+      - title: Quản lý người dùng
+        url: /quan-ly-nguoi-dung
+      - title: Quản lý nhóm người dùng
+        url: /quan-ly-nhom-nguoi-dung
       - title: Phân quyền người dùng
         url: /phan-quyen-nguoi-dung
       - title: Phân quyền công trường
         url: /phan-quyen-cong-truong
-      - title: Quản lý báo cáo thống kê
-        url: /quan-ly-bao-cao-thong-ke
       - title: Quản lý vai trò
         url: /quan-ly-vai-tro
-      - title: Quy định hệ thống
-        url: /quy-dinh-he-thong
+      - title: Định nghĩa tham số hệ thống
+        url: /dinh-nghia-tham-so-he-thong
+      - title: Quản lý báo cáo thống kê
+        url: /quan-ly-bao-cao-thong-ke
+      - title: Quản lý chứng thực
+        url: /quan-ly-chung-thuc
+      - title: Quản lý thiết bị
+        url: /quan-ly-thiet-bi
+      - title: Quản lý biểu mẫu Email
+        url: /quan-ly-bieu-mau-email
       - title: Quản lý dữ liệu nền
         url: /quan-ly-du-lieu-nen
+      - title: Quản lý truy vết
+        url: /quan-ly-truy-vet
       - title: Quản lý truy cập
         url: /quan-ly-truy-cap
-      - title: Quản lý nhóm người dùng
-        url: /quan-ly-nhom-nguoi-dung
-      - title: Quản lý người dùng
-        url: /quan-ly-nguoi-dung
+      - title: Quy định hệ thống
+        url: /quy-dinh-he-thong
+      - title: Quản lý lịch
+        url: /quan-ly-lich
+      - title: Quản lý tài liệu
+        url: /quan-ly-tai-lieu
+      - title: Quản lý cấu hình FTP
+        url: /quan-ly-cau-hinh-ftp
+      - title: Quản lý chức năng
+        url: /quan-ly-chuc-nang
         
 
 sidebar:
