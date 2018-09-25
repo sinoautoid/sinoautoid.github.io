@@ -19,8 +19,8 @@ docs-en:
       #   url:    /
       - title:  Quick Start
         url:    /docs/en/quick-start
-      - title:  Structure
-        url:    /docs/en/structure
+      - title: Đăng nhập, đăng xuất
+        url: /dang-nhap-dang-xuat
   - title:      Quản trị hệ thống
     children:
       - title: Giới Thiệu
