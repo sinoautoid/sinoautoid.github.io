@@ -2,7 +2,7 @@
 title: Đăng nhập, đăng xuất
 permalink: /dang-nhap-dang-xuat
 ---
-**1. ĐĂNG NHẬP VÀO HỆ THỐNG**
+### **1. Đăng nhập vào hệ thống**
 
 Nhập vào đường dẫn thông qua web browser vào hệ thống, hiển thị màn hình sau:
 
@@ -18,7 +18,7 @@ Nhập Tên đăng nhập với tài khoản được cấp.
 
 * (4): Nhấn nút “Đăng nhập” – Thực hiện đăng nhập vào hệ thống
 
-**2. ĐĂNG XUẤT KHỎI HỆ THỐNG**
+### **2. Đăng xuất khỏi hệ thống**
 
 Sau khi đăng nhập vào hệ thống thì xuất hiện màn hình hệ thống, Người dùng muốn
 đăng xuất khỏi hệ thống thực hiện các bước sau:
