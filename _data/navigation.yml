@@ -67,5 +67,7 @@ docs-en:
         url: /quan-ly-cong-nhan
       - title: Thêm từng công nhân
         url: /them-tung-cong-nhan
+      - title: Thêm nhiều công nhân
+        url: /them-nhieu-cong-nhan
 sidebar:
   nav: docs-en
