@@ -69,5 +69,7 @@ docs-en:
         url: /them-tung-cong-nhan
       - title: Thêm nhiều công nhân
         url: /them-nhieu-cong-nhan
+      - title: Đăng tải hình thẻ công nhân
+        url: /dang-tai-hinh-the-cong-nhan
 sidebar:
   nav: docs-en
