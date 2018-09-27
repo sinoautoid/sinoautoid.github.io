@@ -1,0 +1,35 @@
+### **1. Màn hình Quản lý HĐLĐ**
+
+Chọn menu như bên dưới để vào trang kiểm tra thông tin công nhân:
+
+![](assets/CheckWorker/c21773837752b6e725c48d349bf687ba.png)
+
+Trang kiểm tra thông tin CN:
+
+![](assets/CheckWorker/cf1040dc34dd98e3c2ba8c8286f967ba.png)
+
+Để kiểm tra thông tin CN:
+
+Nhập mã thẻ, mã công nhân hoặc số CMND vào ô (1) và nhấn phím “Enter” trên bàn
+phím.
+
+### **2. Hệ thống đọc thẻ từ xa (RFID)**
+
+Đối với công trường sử dụng hệ thống đọc thẻ từ xa, sẽ được cung cấp một thiết bị được gọi là đầu đọc thẻ RFID gắn ngoài.
+![](assets/CheckWorker/cf7dcf5382884a9c4daeb95ad3cb68eb.jpg)
+
+Để đọc thông tin mã thẻ thực hiện các bước sau:
+* (1): Cắm thiết bị vào cổng USB trên máy tín
+* (2): Mở trang kiểm tra thông tin CN
+* (3): Để con trỏ chuột ở ô **“Mã thẻ/Mã công nhân/CMND”**
+* (4): Để thẻ xuống vị trí đặt thẻ trên thiết bị, khi mã được điền đầy và hiển thị thông tin công nhân thì để thẻ ra xa khỏi thiết bị.
+
+### **3. Hệ thống đọc thẻ QR Code**
+Đối với công trường sử dụng hệ thống đọc mã QR Code, sẽ được cung cấp một thiết bị đọc mã QR Code
+![](assets/CheckWorker/1fa0510a30b58feb025e3531435e5751.jpg)
+
+Để đọc thông tin mã thẻ thực hiện các bước sau:
+* (1): Cắm thiết bị vào cổng USB trên máy tín
+* (2): Mở trang kiểm tra thông tin CN
+* (3): Để con trỏ chuột ở ô **“Mã thẻ/Mã công nhân/CMND”**
+* (4): Bấm nút trên thiết bị và đưa thẻ vào vùng ánh sáng màu đỏ. Khi nghe tiếng “Bíp” thiết bị sẽ điền thông tin mã thẻ và hệ thống sẽ hiển thị thông tin CN.

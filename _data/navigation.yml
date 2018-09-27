@@ -73,6 +73,8 @@ docs-en:
         url: /dang-tai-hinh-the-cong-nhan
       - title: Hợp đồng lao động
         url: /hop-dong-lao-dong
+      - title: Kiểm tra thông tin công nhân
+        url: /kiem-tra-thong-tin-cong-nhan
   - title:      Quản lý lực lượng thi công
     children:
       - title: Quản lý lực lượng thi công
