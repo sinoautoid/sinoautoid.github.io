@@ -71,6 +71,8 @@ docs-en:
         url: /them-nhieu-cong-nhan
       - title: Đăng tải hình thẻ công nhân
         url: /dang-tai-hinh-the-cong-nhan
+      - title: Hợp đồng lao động
+        url: /hop-dong-lao-dong
   - title:      Quản lý lực lượng thi công
     children:
       - title: Quản lý lực lượng thi công
