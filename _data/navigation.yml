@@ -79,5 +79,7 @@ docs-en:
         url: /them-luc-luong-thi-cong
       - title: Sửa lực lượng thi công
         url: /sua-luc-luong-thi-cong
+      - title: Gộp lực lượng thi công
+        url: /gop-luc-luong-thi-cong
 sidebar:
   nav: docs-en
