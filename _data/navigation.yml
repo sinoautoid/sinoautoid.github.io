@@ -17,8 +17,8 @@ docs-en:
     children:
       # - title:  Test
       #   url:    /
-      - title:  Giới thiệu
-        url:    /gioi-thieu
+      - title:  Giới thiệu tổng quan
+        url:    /gioi-thieu-tong-quan
       - title: Đăng nhập, đăng xuất
         url: /dang-nhap-dang-xuat
   - title:      Quản trị hệ thống
