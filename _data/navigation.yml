@@ -13,7 +13,7 @@ header:
   #   url:        /about.html
 
 docs-en:
-  - title:      Bắt dầu
+  - title:      Bắt đầu
     children:
       # - title:  Test
       #   url:    /
