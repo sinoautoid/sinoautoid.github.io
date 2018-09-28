@@ -18,7 +18,7 @@ docs-en:
       # - title:  Test
       #   url:    /
       - title:  Giới thiệu tổng quan
-        url:    /gioi-thieu-tong-quan
+        url:    /
       - title: Đăng nhập, đăng xuất
         url: /dang-nhap-dang-xuat
   - title:      Quản trị hệ thống
