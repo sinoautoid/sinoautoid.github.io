@@ -1,5 +1,5 @@
 ---
-title: Giới thiệu
-permalink: /gioi-thieu
+title: Giới thiệu tổng quan
+permalink: /gioi-thieu-tong-quan
 ---
 
