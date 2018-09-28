@@ -13,12 +13,12 @@ header:
   #   url:        /about.html
 
 docs-en:
-  - title:      Start
+  - title:      Bắt dầu
     children:
       # - title:  Test
       #   url:    /
-      - title:  Quick Start
-        url:    /docs/en/quick-start
+      - title:  Giới thiệu
+        url:    /gioi-thieu
       - title: Đăng nhập, đăng xuất
         url: /dang-nhap-dang-xuat
   - title:      Quản trị hệ thống
