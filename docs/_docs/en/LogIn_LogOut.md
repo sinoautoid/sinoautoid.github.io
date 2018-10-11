@@ -1,6 +1,9 @@
 ---
 title: Đăng nhập, đăng xuất
 permalink: /dang-nhap-dang-xuat
+
+sidebar:
+  nav: mgmt-worker
 ---
 ### **1. Đăng nhập vào hệ thống**
 
