@@ -1,7 +1,7 @@
 header:
-  - titles: 
-      en: 
-    url: /
+  # - titles: 
+  #     en: 
+  #   url: /
   # - titles: 
   #     en: Docs
   #   url: /docs/en/quick-start
@@ -12,15 +12,7 @@ header:
   #     zh-Hant:  關於
   #   url:        /about.html
 
-docs-en:
-  - title:      Bắt đầu
-    children:
-      # - title:  Test
-      #   url:    /
-      - title:  Giới thiệu tổng quan
-        url:    /
-      - title: Đăng nhập, đăng xuất
-        url: /dang-nhap-dang-xuat
+mgmt-system:
   - title:      Quản trị hệ thống
     children:
       - title: Giới Thiệu
@@ -61,6 +53,14 @@ docs-en:
         url: /quan-ly-cau-hinh-ftp
       - title: Quản lý chức năng
         url: /quan-ly-chuc-nang
+
+mgmt-worker:
+  - title:      Bắt đầu
+    children:
+      - title:  Giới thiệu tổng quan
+        url:    /
+      - title: Đăng nhập, đăng xuất
+        url: /dang-nhap-dang-xuat
   - title:      Quản lý công nhân
     children:
       - title: Trang quản lý công nhân 
@@ -91,5 +91,6 @@ docs-en:
         url: /sua-luc-luong-thi-cong
       - title: Gộp lực lượng thi công
         url: /gop-luc-luong-thi-cong
+
 sidebar:
-  nav: docs-en
+  nav: mgmt-worker
