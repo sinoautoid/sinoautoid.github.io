@@ -16,7 +16,7 @@ mgmt-system:
   - title:      Quản trị hệ thống
     children:
       - title: Giới Thiệu
-        url: /gioi-thieu
+        url: /quan-tri
       - title: Quản lý người dùng
         url: /quan-ly-nguoi-dung
       - title: Quản lý nhóm người dùng
