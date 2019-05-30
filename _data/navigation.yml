@@ -91,6 +91,9 @@ mgmt-worker:
         url: /sua-luc-luong-thi-cong
       - title: Gộp lực lượng thi công
         url: /gop-luc-luong-thi-cong
-
+  - title:      Đánh giá năng lực LLTC
+    children:
+      - title: Quản lý tiêu chí đánh giá LLTC
+        url: /quan-ly-tieu-chi-danh-gia-lltc
 sidebar:
   nav: mgmt-worker
