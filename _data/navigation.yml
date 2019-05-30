@@ -95,5 +95,15 @@ mgmt-worker:
     children:
       - title: Quản lý tiêu chí đánh giá LLTC
         url: /quan-ly-tieu-chi-danh-gia-lltc
+      - title: Thêm tiêu chí đánh giá
+        url: /them-tieu-chi-danh-gia
+      - title: Sửa lý tiêu chí đánh giá
+        url: /sua-tieu-chi-danh-gia
+      - title: Xóa lý tiêu chí đánh giá
+        url: /xoa-tieu-chi-danh-gia
+      - title: Đánh giá LLTC từ tổng công ty
+        url: /danh-gia-lltc-tu-tong-cong-ty
+      - title: Đánh giá LLTC từ từng công trường
+        url: /danh-gia-lltc-tu-tung-cong-truong
 sidebar:
   nav: mgmt-worker
